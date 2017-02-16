@@ -1,0 +1,113 @@
+ID,Gender Groups Y/N,Race Groups Y/N,Gender Comps Y/N,Race Comps Y/N,Empowerment Sent,Gender Group Sent,Race Group Sent,Gender Comp Sent,Race Comp Sent,Improvement Sent,Age,Occupation/Title,Are you a current student?,Gender,Education,School,Cluster
+1,Yes,Yes,No,No,negative,negative,positive,neutral,negative,neutral,18 - 24,Credit officer,No,Female,Bachelor's Degree,University of Texas,0
+2,Yes,Yes,No,No,negative,positive,negative,negative,positive,positive,18 - 24,Student,"Yes, Full-Time",Male,Bachelor's Degree,University of Texas,1
+3,Yes,n/a,No,No,negative,negative,negative,negative,negative,negative,18 - 24,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,1
+4,Yes,Yes,No,No,neutral,neutral,neutral,negative,neutral,neutral,25 - 34,Senior Financial Analyst,No,Female,Bachelor's Degree,University of Texas,0
+5,Yes,Yes,No,No,neutral,neutral,negative,positive,neutral,neutral,35 - 44,Public Relations Director,No,Female,Bachelor's Degree,University of Texas,0
+6,Yes,Yes,"Yes, but",No,positive,negative,negative,negative,negative,neutral,25 - 34,Consultant,No,Male,Bachelor's Degree,University of Texas,2
+7,Yes,Yes,Yes,Yes,negative,negative,negative,negative,negative,negative,18 - 24,Business Operations Associate,No,Female,Bachelor's Degree,University of Texas,2
+8,Yes,Yes,No,n/a,negative,neutral,positive,neutral,neutral,neutral,18 - 24,Student,"Yes, Full-Time",Male,High School Graduate,University of Texas,1
+9,Yes,Yes,Yes,Yes,negative,neutral,neutral,neutral,neutral,negative,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+10,Yes,Yes,No,No,positive,neutral,negative,positive,neutral,positive,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+11,Yes,Yes,No,No,negative,positive,negative,positive,positive,neutral,25 - 34,Marketing Analyst,No,Female,Bachelor's Degree,University of Texas,0
+12,Yes,Yes,No,No,neutral,positive,neutral,negative,positive,n/a,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+13,Yes,Yes,No,No,negative,negative,neutral,neutral,negative,neutral,25 - 34,Partner Manager,No,Female,Bachelor's Degree,University of Texas,0
+14,Yes,Yes,No,No,neutral,positive,neutral,negative,positive,neutral,25 - 34,Designer,No,Male,Bachelor's Degree,UCLA,0
+15,No,No,No,No,neutral,neutral,positive,neutral,neutral,neutral,25 - 34,CEO,No,Male,Bachelor's Degree,University of Texas,0
+16,Yes,Yes,Yes,"Yes, but",neutral,neutral,negative,neutral,neutral,negative,18 - 24,Student,"Yes, Full-Time",Male,High School Graduate,University of Texas,1
+17,Yes,Yes,No,No,neutral,negative,negative,neutral,negative,negative,25 - 34,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+18,No,No,No,No,negative,positive,positive,negative,positive,n/a,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+19,Yes,Yes,"Yes, but","Yes, but",negative,positive,neutral,positive,positive,neutral,18 - 24,Consultant,No,Male,Bachelor's Degree,University of Texas,2
+20,Yes,Yes,Yes,"Yes, but",negative,negative,negative,neutral,negative,n/a,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
+21,Yes,Yes,No,No,neutral,negative,negative,neutral,negative,neutral,18 - 24,Consultant,No,Female,Bachelor's Degree,University of Texas,0
+22,Yes,Yes,No,No,negative,positive,positive,neutral,positive,neutral,25 - 34,Marketing Analyst,No,Female,Bachelor's Degree,University of Texas,0
+23,Yes,n/a,No,No,neutral,negative,neutral,negative,negative,neutral,25 - 34,IT Analyst,No,Female,Bachelor's Degree,Notre Dame,0
+24,Yes,No,No,No,negative,negative,negative,neutral,negative,neutral,25 - 34,Senior Financial Analyst,No,Male,Bachelor's Degree,University of Texas,0
+25,Yes,Yes,No,No,neutral,negative,negative,neutral,negative,neutral,25 - 34,Student,"Yes, Full-Time",Female,Bachelor's Degree,Texas A&M University-Corpus Christi,0
+26,Yes,Yes,No,No,neutral,positive,neutral,neutral,positive,neutral,18 - 24,Associate Program Officer,No,Female,Bachelor's Degree,University of Texas,0
+27,Yes,Yes,No,No,negative,negative,positive,negative,negative,negative,25 - 34,Global Project Manager,No,Male,Bachelor's Degree,University of Texas,0
+28,n/a,Yes,Yes,No,neutral,neutral,positive,positive,neutral,neutral,18 - 24,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,1
+29,Yes,Yes,No,No,negative,neutral,negative,positive,neutral,negative,45 - 54,Middle school teacher,No,Female,Doctorate Degree,Caltech,0
+30,Yes,Yes,Yes,No,negative,positive,neutral,neutral,positive,neutral,18 - 24,Manager,No,Male,Bachelor's Degree,University of Texas,2
+31,Yes,Yes,No,No,negative,positive,neutral,negative,positive,neutral,35 - 44,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Puerto Rico,0
+32,Yes,Yes,n/a,n/a,negative,negative,neutral,neutral,negative,negative,25 - 34,Senior Analyst,No,Female,Graduate Degree,UNC Charlotte,2
+33,Yes,Yes,Yes,Yes,neutral,positive,neutral,positive,positive,neutral,25 - 34,Manager,No,Female,Bachelor's Degree,University of Texas,2
+34,Yes,Yes,Yes,Yes,neutral,negative,negative,negative,negative,neutral,25 - 34,,No,Male,Bachelor's Degree,,2
+35,Yes,Yes,No,No,neutral,negative,negative,negative,negative,neutral,25 - 34,Attorney,No,Female,Juris Doctorate,NYU,0
+36,Yes,Yes,Yes,Yes,neutral,negative,neutral,neutral,negative,negative,18 - 24,Student,"Yes, Full-Time",Male,Some College / Associates Degree,University of Texas,1
+37,Yes,Yes,No,No,neutral,negative,negative,neutral,negative,negative,45 - 54,SVP Marketing,No,Female,Bachelor's Degree,University of Texas,0
+38,Yes,Yes,Yes,Yes,negative,negative,negative,negative,negative,positive,18 - 24,Consultant,No,Male,Bachelor's Degree,University of Texas,2
+39,Yes,Yes,No,No,neutral,neutral,neutral,negative,neutral,neutral,25 - 34,N/A,No,Female,Bachelor's Degree,N/A,0
+40,Yes,Yes,No,No,neutral,positive,negative,positive,positive,neutral,18 - 24,Account executive,No,Female,Bachelor's Degree,University of Washington,0
+41,Yes,Yes,Yes,Yes,negative,negative,neutral,neutral,negative,neutral,25 - 34,Consultant,"Yes, Full-Time",Female,Bachelor's Degree,University of Washington,2
+42,Yes,Yes,n/a,"Yes, but",neutral,positive,negative,neutral,positive,n/a,25 - 34,Consultant,No,Female,Bachelor's Degree,University of Washington,2
+43,Yes,Yes,Yes,Yes,neutral,negative,neutral,neutral,negative,neutral,18 - 24,Student,"Yes, Full-Time",Female,High School Graduate,University of Texas,1
+44,Yes,Yes,No,No,neutral,neutral,negative,neutral,neutral,neutral,25 - 34,Event programmer,No,Female,Graduate Degree,University of Texas,0
+45,Yes,Yes,No,No,negative,positive,positive,positive,positive,negative,18 - 24,Consultant,No,Female,Bachelor's Degree,University of Texas,0
+46,Yes,Yes,"Yes, but","Yes, but",negative,negative,neutral,positive,negative,negative,18 - 24,Associate,No,Female,Graduate Degree,University of Texas,2
+47,Yes,Yes,No,Yes,neutral,negative,negative,neutral,negative,neutral,18 - 24,Nursing student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas Medical Branch,1
+48,Yes,Yes,No,No,neutral,positive,neutral,negative,positive,neutral,35 - 44,Public Affairs,No,Female,Graduate Degree,George Washington University,0
+49,Yes,Yes,Yes,Yes,negative,positive,positive,neutral,positive,neutral,18 - 24,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,1
+50,Yes,Yes,No,No,neutral,negative,neutral,negative,negative,neutral,25 - 34,Business Analsyt,No,Male,Bachelor's Degree,Stanford,0
+51,Yes,Yes,"Yes, but","Yes, but",negative,neutral,neutral,negative,neutral,negative,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
+52,Yes,Yes,No,No,positive,negative,neutral,negative,negative,neutral,25 - 34,Software Designer,No,Female,Bachelor's Degree,Savannah College of Art and Design,0
+53,Yes,Yes,Yes,Yes,neutral,negative,positive,negative,negative,neutral,35 - 44,Creative professional,No,Female,Bachelor's Degree,Multiple schools,2
+54,Yes,Yes,Yes,Yes,negative,positive,positive,positive,positive,neutral,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
+55,Yes,Yes,No,No,neutral,negative,positive,positive,negative,neutral,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
+56,No,No,No,No,negative,neutral,neutral,positive,neutral,neutral,25 - 34,Senior Designer,No,Female,Bachelor's Degree,Notre Dame,0
+57,Yes,Yes,No,No,negative,positive,negative,neutral,positive,negative,18 - 24,Afterschool Program Director at Side by Side Kids,No,Female,Bachelor's Degree,University of Texas,0
+58,Yes,Yes,No,No,negative,positive,neutral,negative,positive,negative,35 - 44,Project Manager,No,Female,Bachelor's Degree,Boston University,0
+59,No,Yes,No,No,negative,positive,negative,negative,positive,negative,18 - 24,Investment Banker,No,Female,Bachelor's Degree,University of Texas,0
+60,No,No,No,No,negative,negative,negative,neutral,negative,neutral,18 - 24,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,1
+61,Yes,No,No,No,positive,neutral,negative,negative,neutral,positive,18 - 24,Business Strategy Consultant,No,Female,Bachelor's Degree,University of Texas,0
+62,Yes,Yes,Yes,Yes,neutral,neutral,neutral,neutral,neutral,n/a,25 - 34,Software Designer,No,Female,Bachelor's Degree,University of Georgia,2
+63,No,Yes,No,No,negative,neutral,negative,negative,neutral,negative,18 - 24,Consultant,No,Male,Bachelor's Degree,University of Texas,0
+64,Yes,Yes,"Yes, but","Yes, but",negative,neutral,neutral,negative,neutral,negative,25 - 34,Masters in Public Health Candidate,"Yes, Full-Time",Female,Graduate Degree,Columbia University,2
+65,No,n/a,No,No,negative,negative,negative,neutral,negative,positive,18 - 24,Graphic Designer,No,Female,Bachelor's Degree,Cornish,0
+66,No,n/a,No,No,n/a,negative,negative,neutral,negative,positive,25 - 34,Business Owner,No,Female,Bachelor's Degree,Texas A&M University,0
+67,Yes,Yes,No,No,negative,positive,negative,negative,positive,neutral,18 - 24,Customer advocate,No,Female,Bachelor's Degree,University of Texas,0
+68,Yes,Yes,No,No,neutral,negative,neutral,negative,negative,negative,18 - 24,,No,Female,Bachelor's Degree,University of Texas,0
+69,Yes,Yes,No,No,positive,negative,negative,negative,negative,neutral,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Virginia,1
+70,Yes,No,No,No,negative,negative,negative,negative,negative,negative,25 - 34,Student Dentist,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,0
+71,Yes,Yes,"Yes, but",No,negative,negative,neutral,negative,negative,neutral,18 - 24,Tax Associate,No,Male,Bachelor's Degree,University of Texas,2
+72,Yes,Yes,"Yes, but","Yes, but",negative,positive,neutral,neutral,positive,neutral,18 - 24,Management Consulting Senior Analyst,No,Female,Bachelor's Degree,Rice University,2
+73,Yes,Yes,n/a,n/a,negative,positive,positive,negative,positive,negative,25 - 34,Data Scientist,No,Male,Graduate Degree,University of Texas,2
+74,Yes,Yes,"Yes, but",Yes,negative,positive,positive,negative,positive,negative,25 - 34,Design Lead,No,Male,Graduate Degree,Puerto Rico and NYC,2
+75,Yes,Yes,No,No,neutral,positive,positive,neutral,positive,n/a,18 - 24,Consultant,No,Female,Bachelor's Degree,University of Texas,0
+76,Yes,Yes,Yes,Yes,negative,neutral,negative,neutral,neutral,negative,25 - 34,Software Product Designer (UX/Research),No,Female,Bachelor's Degree,University of Texas,2
+77,Yes,Yes,"Yes, but","Yes, but",neutral,negative,neutral,negative,negative,negative,18 - 24,Consultant,No,Female,Bachelor's Degree,University of Texas,2
+78,Yes,Yes,Yes,No,neutral,neutral,neutral,negative,neutral,negative,25 - 34,IT Auditor,No,Female,Graduate Degree,University of Texas,2
+79,n/a,Yes,No,No,neutral,negative,negative,negative,negative,negative,25 - 34,Financial Analyst,No,Male,Bachelor's Degree,University of Texas,0
+80,Yes,Yes,No,No,negative,positive,negative,negative,positive,neutral,18 - 24,Software Product Designer,No,Female,Bachelor's Degree,University of Kansas,0
+81,No,n/a,No,No,negative,negative,negative,positive,negative,negative,18 - 24,Student,"Yes, Full-Time",Male,Bachelor's Degree,UCLA and UT,1
+82,Yes,Yes,No,No,negative,neutral,neutral,negative,neutral,positive,18 - 24,Student,"Yes, Full-Time",Female,Graduate Degree,University of Texas,1
+83,Yes,Yes,No,No,negative,negative,positive,negative,negative,neutral,18 - 24,Associate,No,Male,Bachelor's Degree,University of Texas,0
+84,Yes,Yes,"Yes, but",Yes,neutral,positive,negative,positive,positive,neutral,35 - 44,Administrator,No,Male,Bachelor's Degree,University of Texas,2
+85,Yes,Yes,No,No,neutral,negative,neutral,negative,negative,positive,18 - 24,Contract Specialist,No,Female,Bachelor's Degree,"Atlanta, Georgia (Georgia Tech)",0
+86,Yes,Yes,"Yes, but","Yes, but",neutral,neutral,neutral,positive,neutral,negative,25 - 34,Growth Manager,No,Male,Bachelor's Degree,University of Texas,2
+87,Yes,Yes,No,No,negative,neutral,neutral,negative,neutral,neutral,25 - 34,"UX Designer, Researcher",No,Female,Graduate Degree,"USC, Art Center College of Design",0
+88,Yes,Yes,"Yes, but",Yes,neutral,negative,negative,positive,negative,negative,25 - 34,Festival Program Manager,No,Female,Graduate Degree,University of Texas,2
+89,Yes,Yes,n/a,n/a,neutral,neutral,negative,negative,neutral,neutral,18 - 24,User Researcher,No,Male,Bachelor's Degree,RISD,2
+90,Yes,Yes,n/a,"Yes, but",positive,negative,negative,negative,negative,positive,18 - 24,Unit manager,No,Female,Bachelor's Degree,University of Texas,2
+91,Yes,Yes,Yes,Yes,negative,positive,neutral,positive,positive,neutral,25 - 34,User Experience Designer,No,Female,Bachelor's Degree,North Carolina State University,2
+92,Yes,Yes,No,No,negative,negative,negative,negative,negative,negative,18 - 24,Consultant,No,Female,Bachelor's Degree,University of Texas,0
+93,Yes,Yes,No,No,negative,negative,negative,negative,negative,negative,18 - 24,Business Analsyt,No,Female,Bachelor's Degree,The University of Texas at Austin,0
+94,Yes,Yes,No,No,neutral,neutral,neutral,negative,neutral,negative,25 - 34,Investment Associate,No,Female,Bachelor's Degree,University of Texas,0
+95,Yes,Yes,No,No,positive,positive,positive,negative,positive,neutral,18 - 24,Sales,No,Female,Bachelor's Degree,UIUC,0
+96,Yes,Yes,No,No,positive,negative,negative,neutral,negative,neutral,45 - 54,"Engineer/Educator - `Director, Women in Engineering Program at UT Austin",No,Female,Graduate Degree,UT Austin / UH Clear Lake,0
+97,Yes,Yes,Yes,Yes,negative,neutral,neutral,neutral,neutral,neutral,25 - 34,Student,"Yes, Part-time",Male,Bachelor's Degree,Oregon Health & Science University,2
+98,No,Yes,No,n/a,negative,positive,negative,neutral,positive,positive,25 - 34,"Director, Media",No,Female,Bachelor's Degree,University of Texas,0
+99,Yes,Yes,"Yes, but","Yes, but",negative,positive,neutral,negative,positive,positive,18 - 24,Student,"Yes, Part-time",Female,Bachelor's Degree,Georgetown University,2
+100,Yes,Yes,Yes,"Yes, but",neutral,negative,negative,negative,negative,positive,25 - 34,Visual designer and ux-researcher,No,Female,Bachelor's Degree,University of Texas,2
+101,No,No,No,No,negative,positive,negative,negative,negative,negative,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Illinois at Urbana-Champaign,1
+102,Yes,Yes,No,No,negative,neutral,negative,negative,neutral,negative,25 - 34,Global innovation Manager,No,Female,Bachelor's Degree,Harvard University,0
+103,Yes,Yes,No,No,negative,positive,negative,negative,positive,neutral,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,UIUC,1
+104,Yes,No,Yes,No,neutral,positive,negative,negative,neutral,n/a,18 - 24,Student,"Yes, Full-Time",Male,Some College / Associates Degree,Texas State,1
+105,Yes,No,No,No,negative,negative,negative,neutral,neutral,negative,45 - 54,Retired sales mgr,No,Female,Bachelor's Degree,University of Texas,0
+106,n/a,No,No,No,positive,neutral,negative,negative,positive,negative,18 - 24,Student,"Yes, Full-Time",Female,Bachelor's Degree,University of Texas,1
+107,n/a,n/a,Yes,No,positive,neutral,neutral,neutral,neutral,negative,18 - 24,Engineer,"Yes, Full-Time",Male,Some College / Associates Degree,University of Texas,1
+108,Yes,Yes,"Yes, but","Yes, but",negative,neutral,neutral,neutral,neutral,positive,18 - 24,Policy Analyst,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
+109,No,Yes,No,No,positive,negative,negative,neutral,negative,positive,18 - 24,Student,"Yes, Full-Time",Male,Some College / Associates Degree,University of Texas,1
+110,No,No,No,No,negative,neutral,neutral,negative,neutral,negative,18 - 24,Student,"Yes, Full-Time",Male,Some College / Associates Degree,University of Texas,1
+111,Yes,Yes,No,No,neutral,negative,neutral,negative,neutral,positive,18 - 24,Student,"Yes, Full-Time",Male,Some College / Associates Degree,University of Texas,1
+112,No,No,No,No,n/a,negative,negative,negative,negative,n/a,18 - 24,Student,"Yes, Full-Time",Female,Some College / Associates Degree,University of Texas,1
